@@ -1,0 +1,16 @@
+Analytical Equations :-
+
+
+1. females/males = Sex_ratio
+
+2. females+males = Population
+
+3. females = males-population
+
+4. (Population - males) = (Sex_ratio)*males
+
+5. Population = males(Sex_ratio + 1)
+
+6. males = Population/(Sex_ratio + 1)
+
+7. females = Population-Population/(Sex_ratio + 1)
